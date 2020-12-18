@@ -15,7 +15,7 @@ GEM
       json (>= 1.4.6)
       rest-client (>= 1.5.1)
       uuid (~> 2.0)
-    json (1.7.5)
+    json (2.4.1)
     macaddr (1.6.1)
       systemu (~> 2.5.0)
     mime-types (1.19)
